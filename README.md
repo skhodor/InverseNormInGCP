@@ -1,4 +1,4 @@
-# InverseNormInGCP
+# Calculating the Inverse Normal Using BigQuery SQL
 
 **Introduction**<br>
 GCP's BigQuery SQL has many powerful built-in functions, but in many cases, the user might find themselves needing to use a function that is not present.
